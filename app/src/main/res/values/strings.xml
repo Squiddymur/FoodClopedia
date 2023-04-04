@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">MyRecycleView</string>
-    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="app_name">Makanan</string>
+    <string name="food_name">Nama Makanan</string>
     <string name="from">Asal</string>
     <string name="list">List</string>
     <string name="grid">Grid</string>
@@ -9,5 +9,21 @@
     <string name="favorite">Favorite</string>
     <string name="share">Share</string>
 
+    <string name="title_onboarding_1">Selamat Datang di FoodClopedia !</string>
+    <string name="description_onboarding_1">Mencari makanan makanan di seluruh dunia dengan aplikasi ini</string>
+
+    <string name="title_onboarding_2">Bingung mencari makanan yang enak ?</string>
+    <string name="description_onboarding_2">Dengan FoodClopedia kamu bisa mencari mekanan makanan yang enak di seluruh dunia</string>
+
+    <string name="title_onboarding_3"> Bersama Tim FoodClopedia</string>
+    <string name="description_onboarding_3">Tujuan kita agar memperluas pengetahuan tentang makanan makanan di Dunia</string>
+
+    <string name="start_text_advice">By continuing on this application you agree to our Terms of Use and Privacy Policy</string>
+
+    <string name="start">start</string>
+    <string name="skip">Skip</string>
+    <string name="finish">finish</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
 
 </resources>

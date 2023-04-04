@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.myrecycleview.HeroesData.listData
+import com.example.myrecycleview.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {
@@ -87,7 +88,4 @@ class MainActivity : AppCompatActivity() {
             (supportActionBar as ActionBar).title = title
         }
     }
-
-
-
 }
